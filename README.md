@@ -66,11 +66,13 @@
 
 <h2>💻 Some stats 💻</h2>
 
-[![Zourdy's github stats](https://github-readme-stats.vercel.app/api?username=mark123jesper&show_icons=true&theme=github_dark)]
 
-<h2>💻 Most Used Language 💻</h2>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=github-readme-stats&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=material-palenight" />
+</a>
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=github_dark)]
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
