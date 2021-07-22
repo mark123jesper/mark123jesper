@@ -7,8 +7,8 @@
 <h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Atom" src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/>
 <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,7 +17,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -25,7 +25,7 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/Tensor Flow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -35,8 +35,8 @@
 <h3 align="center">Graphics Design</h3>
 
 <p align="center">
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe-photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe-illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobe illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 
 <h3 align="center">Learning Platforms</h3>
@@ -45,20 +45,20 @@
 <img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img alt="Duolingo" src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 <img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>
-<img alt="HackerRank" src="https://img.shields.io/badge/-Hacker-rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+<img alt="HackerRank" src="https://img.shields.io/badge/-Hacker rank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 <img alt="XDA-Developers" src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white"/>
 <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/>
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack-overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
 </p>
 
 
 <h3 align="center">Gaming Platforms and Technologies</h3>
 <p align="center">
 <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
-<img alt="Unreal Engine" src="https://img.shields.io/badge/unreal-engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<img alt="Unreal Engine" src="https://img.shields.io/badge/unreal engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="Epic Games" src="https://img.shields.io/badge/epic-games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
-<img alt="Humble Bundle" src="https://img.shields.io/badge/Humble-Bundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white"/>
+<img alt="Epic Games" src="https://img.shields.io/badge/epic games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+<img alt="Humble Bundle" src="https://img.shields.io/badge/Humble Bundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white"/>
 <img alt="Play Store" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
 <p align="center">---------------------------------------------------------------------------------------------</p>
