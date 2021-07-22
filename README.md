@@ -2,7 +2,7 @@
 <h2 align="center"> I'm Mark</h2>
 <p align="center"><img src="https://i.pinimg.com/originals/6e/34/f0/6e34f0027ae54a25873e2e07cf0aafb2.gif" alt="Synthwave" height="550" width="100%"></p>
 
-<p align="center">-----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="center">--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h3 align="center">Technologies & Tools</h3>
 
@@ -36,7 +36,7 @@
 <img src="http://img.shields.io/badge/-Go-39A6A3?style=flat&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/-C-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-0A1931?style=flat&logo=python&logoColor=white">
 </p> -->
 
-<p align="center">-----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="center">--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 
 <h2>💻 Some stats 💻</h2>
@@ -47,7 +47,7 @@
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=github_dark)]
 
-<p align="center">-----------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="center">--------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <p align="center"><em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</em></p>
 
