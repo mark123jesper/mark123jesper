@@ -1,42 +1,6 @@
-# Hi Stranger 👋
-
-<!-- <p align='center'><img width='800' height='480' src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/></p> -->
-<!-- <p align="left"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p> -->
-<!-- <p align="center"><img src="https://media.giphy.com/media/xT5LME6604zSIW4YBq/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
-<!-- <p align="right"><img src="https://media.giphy.com/media/lGD7VxrtwNalqhx68w/giphy.gif" alt="Synthwave" height="200" width="300"></p> -->
-
-```javascript
-const aboutMe = {
-  pronouns: "he" | "him",
-  askMeAbout: ["webdev", "tech", "music", "mathematics", "research"],
-  code: [Javascript, Typescript, Python, C],
-  technologies: {
-    frontEnd: {
-      js: ["React", "TypeScript"],
-      css: [
-        "Materialize",
-        "Bulma",
-        "Bootstrap",
-        "Material Design",
-        "Tailwind CSS",
-      ],
-    },
-    backEnd: {
-      TypeScript: ["Deno"],
-      JS: ["Node", "Express"],
-      misc: ["Bash", "Cypress"],
-    },
-    databases: ["MongoDB", "PostgreSQL", "GraphQL"],
-    mobile: ["React Native"],
-  },
-  currentOccupation: [
-    "Passionate Front End Engineer",
-    "open for job opportunities",
-  ],
-  challenge: "I'm working towards being able to run a marathon.",
-};
-```
-
+# Hi! 👋
+<p align="center"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p>
+<!-- <img src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/> -->
 ---
 
 ### Tech & Tools Preference
@@ -88,8 +52,3 @@ const aboutMe = {
 </p>
 
 ---
-
-<p align="center"><img src="https://media.giphy.com/media/d88hjzGrmHBWHfmtjb/giphy.gif" alt="Synthwave" height="370" width="800"></p>
-<!-- <img src="https://pickywallpapers.com/img/2018/2/firewatch-4k-widescreen-wallpaper-412-419-hd-wallpapers.jpg"/> -->
-
-🚀 This Cool Github Profile is created by [Zourdy The Dev](https://github.com/zourdycodes)
