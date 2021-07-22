@@ -3,9 +3,10 @@
 
 Here are some ideas to get you started:
 -->
-
+<!-- 	# Hi! I'm Mark aka Shironekomaru | 
+ 
 🔭 I’m currently working on various Web Development Projects
-🌱 I’m currently learning Software Engineering and Machine Learning
+🌱 I’m currently learning Software Engineering and Machine Learning -->
 <!-- 
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
