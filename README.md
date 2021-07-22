@@ -74,7 +74,7 @@
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
-<p align="center"><em>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</em></p>
+<p align="center"><em>I love connecting with people so if you want to say hi, I'll be more happy to meet you!</em></p>
 
 <br />
 <p align="center">
