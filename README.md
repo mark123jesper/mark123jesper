@@ -67,10 +67,7 @@
 <h2>💻 Some stats 💻</h2>
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=github-readme-stats&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight" /><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight" /><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=github-readme-stats&theme=material-palenight" /><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=material-palenight" />
 </a>
 
 
