@@ -64,7 +64,7 @@
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 
-<h2>💻 Some stats 💻</h2>
+<h2>My Life Stats :D</h2>
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight" />
