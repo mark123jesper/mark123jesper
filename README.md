@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=mark123jesper&theme=gruvbox&no-bg=true&no-frame=true&title=Joined-2021,Commit,Stars,Followers,Repositories,Issues" alt="Mark Jesper's github stats"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=mark123jesper&theme=gruvbox&no-bg=true&no-frame=true&title=Joined2021,Commit,Stars,Followers,Repositories,Issues" alt="Mark Jesper's github stats"/>
 </p>
 
 <p align="center">
