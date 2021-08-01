@@ -67,7 +67,10 @@
 <h2>My Life Stats :D</h2>
 
 <p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper)](https://git.io/streak-stats)
+   <a href="https://github.com/mark123jesper/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=cobalt&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 </p>
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight" />
