@@ -73,11 +73,11 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight&hide_border=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=github-readme-stats&theme=material-palenight&hide_border=true" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=material-palenight&hide_border=true" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=github-readme-stats&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=material-palenight&hide_border=true&no-bg=true&no-frame=true" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/mark123jesper/github-readme-activity-graph"><img alt="Mark's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mark123jesper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mark123jesper/github-readme-activity-graph"><img alt="Mark's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mark123jesper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
 </p>
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
