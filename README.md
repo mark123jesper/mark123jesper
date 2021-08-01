@@ -66,6 +66,9 @@
 
 <h2>My Life Stats :D</h2>
 
+<p align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper)](https://git.io/streak-stats)
+</p>
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=material-palenight" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&layout=compact&theme=material-palenight" />
 
@@ -73,6 +76,10 @@
 
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=mark123jesper&theme=gruvbox&no-bg=true&no-frame=true&title=Joined-2021,Commit,Stars,Followers,Repositories,Issues" alt="Mark Jesper's github stats"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/mark123jesper/github-readme-activity-graph"><img alt="Mark's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mark123jesper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
