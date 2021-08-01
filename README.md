@@ -1,6 +1,6 @@
 <h1 align="center"> Hi!</h1>
 <h2 align="center"> I'm Mark</h2>
-<p align="center"><img src="https://i.pinimg.com/originals/6e/34/f0/6e34f0027ae54a25873e2e07cf0aafb2.gif" alt="Synthwave" height="70%" width="100%"></p>
+<p align="center"><img src="https://media.giphy.com/media/Gx1X5ETQvwdhzSJTAf/giphy.gif" alt="Synthwave" height="70%" width="100%"></p>
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
