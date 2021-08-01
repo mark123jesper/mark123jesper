@@ -72,7 +72,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=github-readme-stats&theme=material-palenight" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=material-palenight" />
 
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=mark123jesper&theme=material-palenight&title=Joined2021,Commit,Stars,Followers,Repositories,Issues" alt="Mark Jesper's github stats"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=mark123jesper&theme=gruvbox&no-bg=true&no-frame=true&title=Joined-2021,Commit,Stars,Followers,Repositories,Issues" alt="Mark Jesper's github stats"/>
 </p>
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
