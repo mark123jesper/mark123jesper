@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-<img src="https://hacked-github-stat-trophies-rgi1d7uwd-mark123jesper.vercel.app/?username=mark123jesper&no-bg=true&no-frame=true&theme=gruvbox&title=Joined2020,Commit,Repositories,Followers,MultipleLang,AllSuperRank,durationYear,Organizations" alt="Mark Jesper's github stats"/>
+<img src="?username=mark123jesper&no-bg=true&no-frame=true&theme=gruvbox&title=Joined2020,Commit,Repositories,Followers,MultipleLang,AllSuperRank,durationYear,Organizations" alt="Mark Jesper's github stats"/>
 </p>
 
 <p align="center">
