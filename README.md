@@ -1,8 +1,12 @@
 <h1 align="center"> Hi!</h1>
 <h2 align="center"> I'm Mark</h2>
 <br>
-<img align="center" src="https://komarev.com/ghpvc/?username=mark123jesper" alt="https://github.com/mark123jesper" />
-<p align="center"><img src="https://media.giphy.com/media/Gx1X5ETQvwdhzSJTAf/giphy.gif" alt="Synthwave" height="70%" width="100%"></p>
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=mark123jesper" alt="https://github.com/mark123jesper" />
+</p>
+<p align="center">
+   <img src="https://media.giphy.com/media/Gx1X5ETQvwdhzSJTAf/giphy.gif" alt="Synthwave" height="70%" width="100%">
+</p>
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
