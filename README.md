@@ -1,11 +1,17 @@
-<h1 align="center"> Hi!</h1>
-<h2 align="center"> I'm Mark</h2>
+
+<img align="left" src="https://www.codewars.com/users/mark123jesper/badges/large" height="40px">
+<h2 align="right">Mark Jesper Pillerva</h2>
+
+<br><br>
+<h1 align="center"> Hi fella!</h1>
+
 <p align="center">
    <img src="https://media.giphy.com/media/Gx1X5ETQvwdhzSJTAf/giphy.gif" alt="Synthwave" height="70%" width="100%">
 </p>
 
 <p align="center">-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
+</br>
 <h3 align="center">Technologies & Tools</h3>
 
 <p align="center">
@@ -38,6 +44,11 @@
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
+<img alt="Gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 <h3 align="center">Graphics Design</h3>
@@ -59,6 +70,9 @@
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img alt="Udacity" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>
 <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+<img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>
+<img alt="Datacamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"/>
+<img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>
 </p>
 
 
